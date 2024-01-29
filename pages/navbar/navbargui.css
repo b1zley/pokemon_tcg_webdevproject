@@ -1,0 +1,36 @@
+.bg-custom-color{
+    background-color: pink;
+}
+
+
+.navbar-text-color{
+    color:white;
+}
+
+a{
+    color: white !important
+}
+
+
+
+
+.btn {
+    padding-top: 17px;
+    padding-bottom: 17px;
+    color: white;
+
+}
+.btn:hover {
+    background-color: white; 
+    color: black;
+}
+
+/* Add this to your existing CSS file or create a new one */
+.nav-item.active.btn:hover svg {
+    color: black; /* Replace with your desired hover color */
+}
+
+
+
+
+
